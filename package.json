@@ -1,0 +1,17 @@
+{
+  "name": "solidity-type-resolver",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "solidity-parser-antlr": "^0.4.2"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
