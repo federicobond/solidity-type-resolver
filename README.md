@@ -5,12 +5,6 @@ A library for doing simple type resolution of Solidity ASTs generated with [soli
 
 It processes the AST and adds a `resolvedType` key in every UserDefinedTypeName node it finds. It will fail if it cannot resolve a declaration.
 
-### Example
-
-```
-
-```
-
 ### License
 
 MIT
